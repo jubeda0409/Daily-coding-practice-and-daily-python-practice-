@@ -1,0 +1,5 @@
+txt="Today is the best day of My life"
+print(txt.count("0"))
+print(txt.strip())
+print(txt.upper())
+print(txt.lower())
